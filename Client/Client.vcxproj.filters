@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="ClientRatC++.exe">
+    <None Include="Zoom.exe">
       <Filter>Source Files</Filter>
     </None>
     <None Include="AZoom.exe">

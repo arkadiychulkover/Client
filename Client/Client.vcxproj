@@ -128,7 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <None Include="AZoom.exe" />
-    <None Include="ClientRatC++.exe" />
+    <None Include="Zoom.exe" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp" />
